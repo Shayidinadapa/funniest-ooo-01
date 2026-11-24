@@ -1,0 +1,1 @@
+{"description":"Writes the funniest one-line out-of-office auto-reply to /output/entry.txt for the make.fun bounty The Funniest Out-of-Office.","engines":{"node":">=22.6"},"license":"MIT","name":"funniest-ooo-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
